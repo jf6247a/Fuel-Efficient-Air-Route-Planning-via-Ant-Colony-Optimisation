@@ -1,7 +1,7 @@
-# Fuel-Efficient Distributed ACO for BlueSky
+# Fuel-Efficient Distributed ACO 
 
 > COMP1682 Final Year Project  
-> Fuel-efficient air route planning in BlueSky using a distributed Ant Colony Optimisation (ACO) architecture.
+> Fuel-efficient air route planning via Ant Colony Optimisation (ACO) architecture.
 
 ---
 
